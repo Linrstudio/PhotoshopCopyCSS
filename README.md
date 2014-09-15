@@ -12,6 +12,18 @@
 
 请在 [Download](https://github.com/Linrstudio/PhotoshopCopyCSS/raw/master/download/PhotoshopCopyCSS-beta-1.0.0.zip 'Download') 下载
 
+
+## 开启 Photoshop CC 自动输出 SVG、WebP 格式功能
+
+将以下配置文件（generator.json）拷贝至： 
+
+* Windows: (Win+R后输入 %USERPROFILE% )目录下，如 C:\Users\xxx 
+* Mac OS: $HOME 如“Macintosh HD>Users>xxx” 目录下 WebP 输出暂只支持 Mac OS。
+
+### 下载 generator.json
+
+请在 [Download](https://github.com/Linrstudio/PhotoshopCopyCSS/raw/master/download/generator.json 'Download') 下载
+
 ### 版本要求 version requred:
 
 * Photoshop CC (14.2+) for Windows
