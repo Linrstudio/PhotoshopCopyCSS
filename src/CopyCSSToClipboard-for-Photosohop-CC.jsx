@@ -15,6 +15,7 @@
 
 /*
 	Modified by Linr 2014.1.13 v1.0.0.1 www@xiaogezi.cn
+	请将此文件拷贝到 Photoshop 程序目录中的 Required 目录，如：C:\Program Files\Adobe\Adobe Photoshop CC\Required
 */
 
 $.localize = true;
