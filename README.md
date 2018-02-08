@@ -8,10 +8,12 @@
 * 优化 rgb 成 十六进制颜色；
 * 去除冗余 CSS 属性，如 position, z-index, left, top；
 
-### 下载 download
+### <s>下载 download</s>（不再生效）
 
-请在 [Download](https://github.com/Linrstudio/PhotoshopCopyCSS/raw/master/download/PhotoshopCopyCSS-beta-1.0.0.zip 'Download') 下载
+<s>请在 [Download](https://github.com/Linrstudio/PhotoshopCopyCSS/raw/master/download/PhotoshopCopyCSS-beta-1.0.0.zip 'Download') 下载</s>
 
+### 安装
+请将 [CopyCSSToClipboard.jsx](https://github.com/Linrstudio/PhotoshopCopyCSS/raw/master/src/CopyCSSToClipboard.jsx 'CopyCSSToClipboard.jsx') 此文件拷贝到 Photoshop 程序目录中的 Required 目录 ，如：C:\Program Files\Adobe\Adobe Photoshop CC\Required
 
 ## 开启 Photoshop CC 自动输出 SVG、WebP 格式功能
 
